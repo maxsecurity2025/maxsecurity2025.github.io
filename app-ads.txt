@@ -1,6 +1,9 @@
-# Updated at  2025/06/24 15:34:22
+# Updated at  2025/09/9 11:34:22
 
 # Admob
 google.com, pub-3425672481606736, DIRECT, f08c47fec0942fa0
+
+# Facebook
+facebook.com, 736955455749506, DIRECT, c3e20eee3f780d68
 
 # End
